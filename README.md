@@ -38,23 +38,6 @@ Desarrollador de software con formación en sistemas microinformáticos y desarr
 - Desarrollo de soluciones innovadoras
 - Impacto positivo a través de la tecnología
 
-## 📱 Proyectos en Desarrollo
-
-### 🌐 Portfolio Personal
-- Estado: En desarrollo
-- Tecnologías: HTML5, CSS3, JavaScript
-- Enfoque en prácticas modernas de desarrollo web
-
-### 📱 Aplicación Móvil
-- Estado: Próximamente
-- Tecnologías: Flutter, Firebase
-- Enfoque en experiencia de usuario excepcional
-
-### 💻 Desarrollo Web Full Stack
-- Estado: En planificación
-- Tecnologías: JavaScript y frameworks modernos
-- Enfoque en arquitectura escalable y buenas prácticas
-
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasgnzlez)
